@@ -19,7 +19,6 @@ html {
 main {
   margin: 80px 0;
 }
-
 /* create styles for use for all white main boxes */
 .block {
   background-color: #fff;
@@ -42,10 +41,10 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #fff;
+  /* color: #fff; */
 
   /* Visual */
-  background: #4aaaa5;
+  /* background: #4aaaa5; */
 }
 
 /* override bootstrap hover color and border */
